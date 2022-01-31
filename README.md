@@ -21,4 +21,4 @@ You can try the following items from the blelow list
     - Chick-fil-A Potato fries
     - Chick-fil-A Mac & Cheese
 
-[Abour Naren](https://github.com/Narendarkatta/assignment2-Katta/blob/7dd7ba4b84338822bc5fcd532acde0a98fa77ad7/ABOUTME.md)
+[Abour Naren](https://github.com/Narendarkatta/assignment2-Katta/blob/f2bcc817915c17ec8f4f08e28ab4351ef2c4dd1f/AboutMe.md)
