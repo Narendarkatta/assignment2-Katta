@@ -32,7 +32,7 @@ You can try the following items from the blelow list
 ### Sports you have to try
 
 Below table explains you what all are sports availble 
-| Sports      | activities |
+| Sports      | activities  |  | Price |
 | ----------- | ----------- |  | ----------- |
 | Cricket     | Sports arena | | 20$ |  
 | Badminton   | Sports arena | | 10$ |
