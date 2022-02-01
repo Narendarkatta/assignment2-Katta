@@ -22,3 +22,14 @@ You can try the following items from the blelow list
     - Chick-fil-A Mac & Cheese
 
 [Abour Naren](https://github.com/Narendarkatta/assignment2-Katta/blob/f2bcc817915c17ec8f4f08e28ab4351ef2c4dd1f/AboutMe.md)
+
+
+### Sports you have to try
+
+Below table explains you what all are sports availble 
+| Sports      | activities |
+| :---        |    :----:   |          ---: |
+| Cricket     | Sports arena | | 20$ |  
+| Badminton   | Sports arena | | 10$ |
+| Hockey      | Sports arena | | 30$ |
+| Tennis      | Sports arena | | 40$ |
