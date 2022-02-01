@@ -26,8 +26,10 @@ You can try the following items from the blelow list
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Cricket     | Sports arena | | 20$ |  
+| Badminton   | Sports arena | | 10$ |
+| Hockey      | Sports arena | | 30$ |
+| Tennis      | Sports arena | | 40$ |
 
 ### Sports you have to try
 
