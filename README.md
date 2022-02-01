@@ -33,7 +33,7 @@ You can try the following items from the blelow list
 
 Below table explains you what all are sports availble 
 | Sports      | activities |
-| :---        |    :----:   |          ---: |
+| ----------- | ----------- |  | ----------- |
 | Cricket     | Sports arena | | 20$ |  
 | Badminton   | Sports arena | | 10$ |
 | Hockey      | Sports arena | | 30$ |
