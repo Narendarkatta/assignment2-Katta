@@ -33,3 +33,15 @@ Below table explains you what all are sports availble
 | Badminton   | Sports arena |  10$ |
 | Hockey      | Sports arena |  30$ |
 | Tennis      | Sports arena |  40$ |
+
+***
+### Quotes 
+> Change is the end result of all true learning. – *Leo Buscaglia*
+> 
+>  Education is the passport to the future, for tomorrow belongs to those who prepare for it today. – *Malcolm X*
+
+***
+### Code fencing
+> Dynamic programming is both a mathematical optimization method and a computer programming method. The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields.<https://en.wikipedia.org/wiki/Dynamic_programming>
+> Linear algebra is central to almost all areas of mathematics. For instance, linear algebra is fundamental in modern presentations of geometry, including for defining basic objects.<https://en.wikipedia.org/wiki/Linear_algebra> 
+> In numerical analysis, a numerical method is a mathematical tool designed to solve numerical problems. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.<https://en.wikipedia.org/wiki/Numerical_method>
